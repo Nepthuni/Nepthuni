@@ -1,5 +1,3 @@
-!(ingeniero en sistemas.jpg)
-
 ## 👨‍💻 Ingeniería en Sistemas Computacionales
 ¡Hola! Soy un estudiante de séptimo semestre de Ingeniería en Sistemas Computacionales, una carrera que me ha permitido adquirir conocimientos sólidos en la ciencia de la computación y habilidades prácticas en el desarrollo de sistemas informáticos. Mi formación se centra en áreas clave como la programación y el diseño de interfaces web, utilizando tecnologías modernas para crear soluciones eficaces y funcionales.
 ## 🔧 Habilidades Adquiridas
